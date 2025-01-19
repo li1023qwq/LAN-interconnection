@@ -25,6 +25,8 @@
 ## 技术栈
 
 ### 前端
+
+```
 - Vue 3
 - TypeScript
 - Pinia
@@ -34,13 +36,17 @@
 - WebRTC
 - SCSS
 
+```
 ### 后端
+
+```
 - Spring Boot
 - WebSocket
 - Java 17
 - Lombok
 - Maven
 
+```
 ## 📁 项目结构
 
 ```
@@ -91,21 +97,43 @@
 ### 前端开发
 bash
 进入前端目录
+
+```
 cd 前端/lan-client
+
+```
 安装依赖
+
+```
 npm install
+
+```
 启动开发服务器
+
+```
 npm run dev
+
+```
 构建生产版本
+
+```
 npm run build
 
+```
 ### 后端开发
 bash
 使用 Maven 构建
+
+```
 mvn clean install
+
+```
 运行 Spring Boot 应用
+
+```
 mvn spring-boot:run
 
+```
 ## 功能说明
 
 ### 实时聊天
