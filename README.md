@@ -42,31 +42,30 @@
 - Maven
 
 ## 项目结构 
-tree
 .
 ├── 前端
-│ └── lan-client # Vue 3 前端项目
-│ ├── public # 静态公共资源
-│ ├── src
-│ │ ├── assets # 静态资源
-│ │ ├── components # 公共组件
-│ │ ├── router # 路由配置
-│ │ ├── stores # Pinia 状态管理
-│ │ ├── types # TypeScript 类型定义
-│ │ └── views # 页面组件
-│ └── package.json # 项目依赖配置
+│   └── lan-client # Vue 3 前端项目
+│       ├── public # 静态公共资源
+│       ├── src
+│       │   ├── assets # 静态资源
+│       │   ├── components # 公共组件
+│       │   ├── router # 路由配置
+│       │   ├── stores # Pinia 状态管理
+│       │   ├── types # TypeScript 类型定义
+│       │   └── views # 页面组件
+│       └── package.json # 项目依赖配置
 └── 后端
-├── src
-│ └── main
-│ ├── java
-│ │ └── com.example.lanserver
-│ │ ├── config # 配置类
-│ │ ├── controller # 控制器
-│ │ └── model # 数据模型
-│ └── resources
-│ ├── static # 静态资源
-│ └── application.properties # 应用配置
-└── pom.xml # Maven 配置
+    ├── src
+    │   └── main
+    │       ├── java
+    │       │   └── com.example.lanserver
+    │       │       ├── config # 配置类
+    │       │       ├── controller # 控制器
+    │       │       └── model # 数据模型
+    │       └── resources
+    │           ├── static # 静态资源
+    │           └── application.properties # 应用配置
+    └── pom.xml # Maven 配置
 
 ## 开发指南
 
