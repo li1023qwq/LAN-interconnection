@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.li1023.com/assets/images/logo.png" alt="晚夜深秋" width="200" height="200">
+  <img src="https://wp.li1023.com/wp-content/uploads/2025/01/1737201650-logo.png" alt="晚夜深秋" width="200" height="200">
   
   # 🌐 局域网多功能服务器
   
