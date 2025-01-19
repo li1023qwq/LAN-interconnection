@@ -1,4 +1,14 @@
-# 🌐 局域网多功能服务器
+<div align="center">
+  <img src="https://www.li1023.com/assets/images/logo.png" alt="晚夜深秋" width="200" height="200">
+  
+  # 🌐 局域网多功能服务器
+  
+  _✨ 由晚夜深秋开发维护 ✨_
+  
+  [官网](https://www.li1023.com) · [文档](https://www.li1023.com/docs) · [问题反馈](https://www.li1023.com/issues)
+</div>
+
+---
 
 一个基于 Spring Boot 和 Vue 3 的局域网多功能服务器，提供实时聊天、文件传输和屏幕共享等功能。
 
