@@ -5,7 +5,7 @@
   
   _✨ 由晚夜深秋开发维护 ✨_
   
-  [官网](https://www.li1023.com) · [文档](https://www.li1023.com/docs) · [问题反馈](https://www.li1023.com/issues)
+  [官网](https://www.li1023.com) · 
 </div>
 
 ---
